@@ -1,5 +1,5 @@
 # DHT11-Temp-Sensor-with-LCD-display
-My second project 
+My 2nd project 
 
 
 In this project a DHT11 will get the temperature of the room and print it on the LCD. A potentiometer controls the contrast of the LCD.
